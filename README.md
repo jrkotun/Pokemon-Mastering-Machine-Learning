@@ -21,13 +21,13 @@ The data used in this project was scraped from the below websites utilizing Pyth
  
 The Pokémon for this data set were from Pokémon generations 1 through 8.
 
-For the Pokémon Legendary prediction problem, the below features need to be scraped or calculated:
+For the Pokémon Legendary prediction problem, the below features needed to be scraped or calculated:
 - Summation and Average of All Stats
 - Each Individual Stat
 - Catch Rate
 - Legendary Status (True or False)
 
-For the Pokémon type prediction problem, the below features need to be scraped or calculated:
+For the Pokémon type prediction problem, the below features needed to be scraped or calculated:
 - Primary and Secondary Types
 - Egg Groups
 - Proportions of Move Types in Level Up Moveset
